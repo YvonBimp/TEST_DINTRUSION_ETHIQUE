@@ -69,14 +69,13 @@ L’exploitation de la première machine est terminée avec succès.
 
 ![Résultat exploit 1](img/Image9.jpg)
 
-(img/Image10.jpg)
+![Exploit PHP CGI](img/Image11.jpg)
 
 ---
 
 ## Machine cible 2 : 10.66.128.115
 
-### Informations avant l’attaque
-(img/Image11.jpg)
+### Informations avant l’attaque(img/Image11.jpg).
 
 Le balayage de ports révèle que le port **80 HTTP** est ouvert.  
 La version identifiée est **Apache**.
