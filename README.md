@@ -41,27 +41,27 @@ L’attaque s’effectue en plusieurs étapes :
 Un balayage de ports montre plusieurs ports ouverts, notamment les ports TCP 135, 139 et 445.  
 Le système identifié est **Windows 7 Professional**, avec les utilisateurs **John-pc** et **guest user**.
 
-![Balayage de ports machine 1](./media/image3.png)
+![Balayage de ports machine 1](img/Image1.jpg)
 
-![Informations système machine 1](./media/image4.png)
+![Informations système machine 1](img/Image2.jpg)
 
-![Utilisateurs détectés machine 1](./media/image5.png)
+![Utilisateurs détectés machine 1](img/Image3.png)
 
 ### Méthode d’attaque
 
 L’exploitation est réalisée avec **Metasploit** en ciblant une vulnérabilité SMB sur le port 139.
 
-![Exploitation SMB](./media/image6.png)
+![Exploitation SMB](img/Image4.jpg)
 
 ### Déroulement de l’attaque
 
-![Étape d’attaque 1](./media/image7.png)
+![Étape d’attaque 1](img/Image5.jpg)
 
-![Étape d’attaque 2](./media/image8.png)
+![Étape d’attaque 2](img/Image6.jpg)
 
-![Étape d’attaque 3](./media/image9.png)
+![Étape d’attaque 3](img/Image7.jpg)
 
-![Étape d’attaque 4](./media/image10.png)
+![Étape d’attaque 4](img/Image8.png)
 
 ### Fin de l’exploit 1
 
