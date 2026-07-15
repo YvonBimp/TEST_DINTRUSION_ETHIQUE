@@ -104,7 +104,7 @@ Le rapport mentionne **PHP CGI** et la vulnérabilité **CVE-2024-4577**, liée 
 
 ![Résultat étape 3](img/Image19.jpg)
 
-![Résultat étape 4](img/Image29.jpg)
+![Résultat étape 4]
 
 ![Résultat étape 5](img/Image21.jpg)
 
@@ -112,4 +112,6 @@ Le rapport mentionne **PHP CGI** et la vulnérabilité **CVE-2024-4577**, liée 
 
 La seconde exploitation est terminée avec succès.
 
-![Résultat exploit 2](img/Image22.jpg)# TEST_DINTRUSION_ETHIQUE
+![Résultat exploit 2](img/Image22.jpg)
+
+# TEST_DINTRUSION_ETHIQUE
