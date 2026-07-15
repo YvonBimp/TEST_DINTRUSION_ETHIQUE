@@ -67,47 +67,50 @@ L’exploitation est réalisée avec **Metasploit** en ciblant une vulnérabilit
 
 L’exploitation de la première machine est terminée avec succès.
 
-![Résultat exploit 1](./media/image11.png)
+![Résultat exploit 1](img/Image9.jpg)
+
+(img/Image10.jpg)
 
 ---
 
 ## Machine cible 2 : 10.66.128.115
 
 ### Informations avant l’attaque
+(img/Image11.jpg)
 
 Le balayage de ports révèle que le port **80 HTTP** est ouvert.  
 La version identifiée est **Apache**.
 
-![Balayage de ports machine 2](./media/image13.png)
+![Balayage de ports machine 2](img/Image12.jpg)
 
-![Service Apache](./media/image14.png)
+![Service Apache](img/Image13.jpg)
 
-![Détails du service web](./media/image15.png)
+![Détails du service web](img/Image14.jpg)
 
 ### Méthode d’attaque
 
 L’exploitation est réalisée avec **Metasploit** en ciblant le service web sur le port 80.
 
-![Préparation exploit web](./media/image16.png)
+![Préparation exploit web](img/Image15.jpg)
 
 ### Utilisation de l’exploit
 
 Le rapport mentionne **PHP CGI** et la vulnérabilité **CVE-2024-4577**, liée au traitement Unicode dans le module CGI.
 
-![Exploit PHP CGI](./media/image17.png)
+![Exploit PHP CGI](img/Image16.jpg)
 
-![Résultat étape 1](./media/image18.png)
+![Résultat étape 1](img/Image17.jpg)
 
-![Résultat étape 2](./media/image19.png)
+![Résultat étape 2](img/Image18.jpg)
 
-![Résultat étape 3](./media/image20.png)
+![Résultat étape 3](img/Image19.jpg)
 
-![Résultat étape 4](./media/image21.png)
+![Résultat étape 4](img/Image29.jpg)
 
-![Résultat étape 5](./media/image22.png)
+![Résultat étape 5](img/Image21.jpg)
 
 ### Fin du deuxième exploit
 
 La seconde exploitation est terminée avec succès.
 
-![Résultat exploit 2](./media/image23.png)# TEST_DINTRUSION_ETHIQUE
+![Résultat exploit 2](img/Image22.jpg)# TEST_DINTRUSION_ETHIQUE
