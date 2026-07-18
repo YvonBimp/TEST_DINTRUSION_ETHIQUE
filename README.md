@@ -48,7 +48,9 @@ Le système identifié est **Windows 7 Professional**, avec les utilisateurs **J
 
 
 ![Informations système machine 1](img/Image2.jpg)
+
 ![Exploitation SMB](img/Image4.jpg)
+
 ![Utilisateurs détectés machine 1](img/Image3.png)
 
 ### Méthode d’attaque
