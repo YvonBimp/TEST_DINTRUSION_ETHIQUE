@@ -21,7 +21,7 @@
 
 ## Objectif
 
-L'objectif est d'effectuer un test d'intrusion sur deux machines cibles.
+L'objectif est d'effectuer un test d'intrusion sur deux machines cibles Vulnérables préparées à cette effet .
 
 ---
 
