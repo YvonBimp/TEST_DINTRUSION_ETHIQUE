@@ -41,6 +41,7 @@ L’attaque s’effectue en plusieurs étapes :
 
 ### Informations avant l’attaque
   **ON UTILISE NMAP POUR LA RECONNAISSANCE**
+  ---
 Un balayage de ports montre plusieurs ports ouverts, notamment les ports TCP 135, 139 et 445.  
 Le système identifié est **Windows 7 Professional**, avec les utilisateurs **John-pc** et **guest user**.
 
