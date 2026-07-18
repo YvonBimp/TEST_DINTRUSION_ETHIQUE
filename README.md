@@ -30,7 +30,7 @@ L'objectif est d'effectuer un test d'intrusion sur deux machines cibles Vulnéra
 L’attaque s’effectue en plusieurs étapes :
 
 - **Phase de reconnaissance et de balayage** :
-  **ON UTILISE NMAP POUR LA RECONNAISSANCE**
+
   découverte des technologies utilisées, des versions des services, des ports ouverts, des utilisateurs présents sur le système et du système d’exploitation.
 - **Phase d’exploitation et d’accès** : utilisation des outils d’attaque pour exploiter les vulnérabilités identifiées.
 
@@ -40,7 +40,7 @@ L’attaque s’effectue en plusieurs étapes :
 ![Balayage de ports machine 1](img/Image1.jpg)
 
 ### Informations avant l’attaque
-
+  **ON UTILISE NMAP POUR LA RECONNAISSANCE**
 Un balayage de ports montre plusieurs ports ouverts, notamment les ports TCP 135, 139 et 445.  
 Le système identifié est **Windows 7 Professional**, avec les utilisateurs **John-pc** et **guest user**.
 
