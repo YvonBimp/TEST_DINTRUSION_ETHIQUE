@@ -29,7 +29,9 @@ L'objectif est d'effectuer un test d'intrusion sur deux machines cibles Vulnéra
 
 L’attaque s’effectue en plusieurs étapes :
 
-- **Phase de reconnaissance et de balayage** : découverte des technologies utilisées, des versions des services, des ports ouverts, des utilisateurs présents sur le système et du système d’exploitation.
+- **Phase de reconnaissance et de balayage** :
+  **ON UTILISE NMAP POUR LA RECONNAISSANCE**
+  découverte des technologies utilisées, des versions des services, des ports ouverts, des utilisateurs présents sur le système et du système d’exploitation.
 - **Phase d’exploitation et d’accès** : utilisation des outils d’attaque pour exploiter les vulnérabilités identifiées.
 
 ---
