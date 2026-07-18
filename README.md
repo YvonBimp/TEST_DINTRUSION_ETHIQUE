@@ -73,11 +73,11 @@ L’exploitation de la première machine est terminée avec succès.
 
 ![Résultat exploit 1](img/Image9.jpg)
 
-![Exploit PHP CGI](img/Image11.jpg)
-
 ---
 
 ## Machine cible 2 : 10.66.128.115
+
+![Exploit PHP CGI](img/Image11.jpg)
 
 ### Informations avant l’attaque.
 
