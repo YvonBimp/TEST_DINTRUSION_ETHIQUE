@@ -37,13 +37,14 @@ L’attaque s’effectue en plusieurs étapes :
 ---
 
 ## Machine cible 1 : 10.65.153.187
+![Balayage de ports machine 1](img/Image1.jpg)
 
 ### Informations avant l’attaque
 
 Un balayage de ports montre plusieurs ports ouverts, notamment les ports TCP 135, 139 et 445.  
 Le système identifié est **Windows 7 Professional**, avec les utilisateurs **John-pc** et **guest user**.
 
-![Balayage de ports machine 1](img/Image1.jpg)
+
 
 ![Informations système machine 1](img/Image2.jpg)
 
